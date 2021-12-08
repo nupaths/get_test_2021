@@ -30,4 +30,3 @@ When it comes to working with git and other people is VERY IMPORTANT TO **NEVER*
 9. Create a pull request (can do anytime around steps 5-8)
 10. Have someone review the code (we'll cover this later)
 11. When ok'd merge the code
-
