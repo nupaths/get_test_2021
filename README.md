@@ -21,7 +21,7 @@ When it comes to working with git and other people is VERY IMPORTANT TO **NEVER*
 ## When starting a new feature/user-story the steps are
 1. Checkout main
 2. fetch from origin
-3. pull main (if needed)
+3. pull origin (if needed)
 4. Checkout a new branch (named around the feature)
 5. Code
 6. commit
