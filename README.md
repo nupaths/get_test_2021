@@ -29,8 +29,8 @@ When it comes to working with git and other people is VERY IMPORTANT TO **NEVER*
 8. repeat 5-7 as many times as needed
 9. Create a *pull request* (can do anytime around steps 5-8)
 10. Have someone review the code (we'll cover this later)
-11. When ok'd merge the code
+11. When ok'd *merge* the code
 12. Delete branch locally and on github
-12. Checkout main
-13. fetch from origin
-14. pull main (if needed)
+12. *Checkout* *main*
+13. *fetch* from *origin*
+14. *pull origin* (if needed)
