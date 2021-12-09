@@ -13,13 +13,13 @@
 ## My fav places
 - brazil
 - DC
-- Germany
+- Germany theseare some of  the placesi would like to visit
 - Vietnam
 
 ## My hobbies
-- walking my dog
+- walking my dog 
 - riding my bike
-- listening to music
+- listening to music i love listeningto music especially light rock
 - coding
 
 ## My syblings:
