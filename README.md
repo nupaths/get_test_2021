@@ -19,15 +19,15 @@ When it comes to working with git and other people is VERY IMPORTANT TO **NEVER*
 3. *Pulled* main
 
 ## When starting a new feature/user-story the steps are
-1. Checkout main
-2. fetch from origin
-3. pull main (if needed)
-4. Checkout a new branch (named around the feature)
+1. *Checkout* *main*
+2. *fetch* from *origin*
+3. *pull origin* (if needed)
+4. *Checkout* a new *branch* (named around the feature)
 5. Code
-6. commit
-7. push
+6. *commit*
+7. *push*
 8. repeat 5-7 as many times as needed
-9. Create a pull request (can do anytime around steps 5-8)
+9. Create a *pull request* (can do anytime around steps 5-8)
 10. Have someone review the code (we'll cover this later)
 11. When ok'd merge the code
 12. Delete branch locally and on github
