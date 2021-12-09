@@ -1,14 +1,18 @@
 # Things about me
 
-## My fav food
+## My fav food 
 - beans
 - pizza
 - spagetti
 - mac and cheese
 - apples
 
+**I like all of these foods too. - DColletti
+
 ## my fav color
 - Green
+
+**I like prefer Blue. - DColletti
 
 ## My fav places
 - brazil
@@ -21,6 +25,8 @@
 - riding my bike
 - listening to music i love listeningto music especially light rock
 - coding
+
+**I like ariding my bike and walking too. - DColletti
 
 ## My syblings:
 - Steve
