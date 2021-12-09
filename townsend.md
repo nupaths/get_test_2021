@@ -1,5 +1,7 @@
 # Things about me
 
+I love food!
+
 ## My fav food 
 - beans
 - pizza
@@ -12,6 +14,7 @@
 ## my fav color
 - Green
 
+
 **I like prefer Blue. - DColletti
 
 ## My fav places
@@ -19,6 +22,10 @@
 - DC
 - Germany theseare some of  the placesi would like to visit
 - Vietnam
+
+I love to travel!
+
+
 
 ## My hobbies
 - walking my dog 

@@ -1,3 +1,4 @@
+ I love shopping!
  I  like coffee icecream
   - i love ice cream and coffee, but just not together.
  Shopping is fun 
