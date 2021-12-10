@@ -8,7 +8,7 @@ I love food!
 - spagetti
 - mac and cheese
 - apples
-
+i like black bean soup
 **I like all of these foods too. - DColletti
 
 ## my fav color
@@ -22,7 +22,7 @@ I love food!
 - DC
 - Germany theseare some of  the placesi would like to visit
 - Vietnam
-
+Brazil has beautiful beaches
 I love to travel!
 
 
