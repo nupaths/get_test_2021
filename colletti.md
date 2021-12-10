@@ -1,3 +1,5 @@
+I love chocolate!
+
 Five Favorite Foods:
 Mexican- anything-Ireally like authentic Mexican Food
   - yummmm big fan of mexican

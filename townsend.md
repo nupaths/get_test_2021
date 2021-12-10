@@ -1,12 +1,15 @@
 # Things about me
 
-## My fav food
+I love food!
+
+## My fav food 
 - beans
 - pizza
 - spagetti
 - mac and cheese
 - apples
 
+i like black bean soup
 **I like all of these foods too. - DColletti**
 
 ## my fav color
@@ -19,6 +22,10 @@
 - DC
 - Germany theseare some of  the placesi would like to visit
 - Vietnam
+Brazil has beautiful beaches
+I love to travel!
+
+
 
 ## My hobbies
 - walking my dog 
