@@ -8,14 +8,14 @@ I love food!
 - spagetti
 - mac and cheese
 - apples
+
 i like black bean soup
-**I like all of these foods too. - DColletti
+**I like all of these foods too. - DColletti**
 
 ## my fav color
 - Green
 
-
-**I like prefer Blue. - DColletti
+**I like prefer Blue. - DColletti**
 
 ## My fav places
 - brazil
@@ -33,7 +33,7 @@ I love to travel!
 - listening to music i love listeningto music especially light rock
 - coding
 
-**I like ariding my bike and walking too. - DColletti
+**I like ariding my bike and walking too. - DColletti**
 
 ## My syblings:
 - Steve

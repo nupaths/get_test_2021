@@ -3,22 +3,24 @@ I love chocolate!
 Five Favorite Foods:
 Mexican- anything-Ireally like authentic Mexican Food
   - yummmm big fan of mexican
-Vietnamese Spring Rolls
+Vietnamese Spring Rolls - Bun Cha?
 Moraccan anything
   - I dont know if i ever had moraccan food?
 Macaroni and cheese- ilike Macorini and cheese but with white cheddar
   - I agree!  
 Chocolate
 
+hahaha so much fun!!!
+
 
 Favorite Colors:
-Blue 
+Blue - suede shoes
 Purple
   - very royal!
 Red my- favorite color is red also
 
 Favorite Places:
-California
+California calling
 Italy
 Spain
 
